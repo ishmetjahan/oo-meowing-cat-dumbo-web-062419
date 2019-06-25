@@ -10,7 +10,8 @@ class Cat
   end
  
  attr_accessor :name
-
+ 
+ def 
 
   
 end
